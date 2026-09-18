@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pdwnavmh.github.io/sitemap.xml
